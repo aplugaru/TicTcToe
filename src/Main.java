@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-// 1 version
+// 1 version - not complete
         //char[][] gameBoard = {{' ', '|', ' ', '|', ' '},
         //{'-', '+', '-', '+', '-',},
         //{' ', '|', ' ', '|', ' '},
